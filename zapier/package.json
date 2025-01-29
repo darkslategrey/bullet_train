@@ -1,7 +1,7 @@
 {
-  "name": "untitled-application",
+  "name": "vapalape",
   "version": "1.0.0",
-  "description": "Integrate Zapier with Untitled Application",
+  "description": "Integrate Zapier with Vapalape",
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive -t 10000"
