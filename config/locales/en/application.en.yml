@@ -1,10 +1,10 @@
 en:
   application:
     name: Vapalape
-    owner: Unidentified Developer
-    description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: vapalape seo keywords
-    support_email: change.me@localhost
+    owner: Gregory Faruch
+    description: "Prices monitoring for the vape."
+    keywords: vapalape prices monitoring
+    support_email: contact@vapalape.fr
     key: vapalape
   webhooks/outgoing/endpoints:
     fields:
